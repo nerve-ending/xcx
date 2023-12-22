@@ -1,0 +1,18 @@
+{
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true,
+        "autoCompile": true,
+        "compileHotReLoad": true,
+        "nativeCompile": true,
+        "useCompilerPlugins": [
+            "typescript"
+        ]
+    },
+    "appid": "tt80b4f6091f84588601",
+    "projectname": "demo01",
+    "douyinProjectType": "native"
+}
